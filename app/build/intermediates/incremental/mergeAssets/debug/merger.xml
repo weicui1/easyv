@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/npq643/Downloads/testVoiceScreen/app/src/main/assets"><file name="elvis/lvr_enus16k.bin.jpg" path="/Users/npq643/Downloads/testVoiceScreen/app/src/main/assets/elvis/lvr_enus16k.bin.jpg"/></source></dataSet><dataSet config="debug"><source path="/Users/npq643/Downloads/testVoiceScreen/app/src/debug/assets"/></dataSet></merger>

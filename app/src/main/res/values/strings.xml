@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Easy Voice</string>
+    <string name="test">test</string>
+    <string name="command"> <![CDATA[ Try saying \'"<font color='#33B5E5'><b>"Call mom"</b></font>"\' or \'"<font color='#33B5E5'><b>"Volume mute</b></font>\']]></string>
+
+</resources>
